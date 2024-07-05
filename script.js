@@ -6,8 +6,8 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "Insira o enunciado da Pergunta 1",
-        alternativas: ["Alternativa 1", "Alternativa 2"],
+        enunciado: "Como podemos reduzir a poluição atmosférica em nossas cidades?",
+        alternativas: ["A Incentivar o uso de transportes públicos e veículos como a bicicleta", "Promover a adoção de energias renováveis e eficiência energético."],
     },
     {
         enunciado: "Insira o enunciado da Pergunta 2",
