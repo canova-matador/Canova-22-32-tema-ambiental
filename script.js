@@ -10,12 +10,12 @@ const perguntas = [
         alternativas: ["A Incentivar o uso de transportes públicos e veículos como a bicicleta", "Promover a adoção de energias renováveis e eficiência energético."],
     },
     {
-        enunciado: "Insira o enunciado da Pergunta 2",
-        alternativas: ["Alternativa 1", "Alternativa 2"],
+        enunciado: "Quais ações podemos tomar para proteger a biodiversidade local?",
+        alternativas: ["A Criar áreas de preservação e fazer campanhas para as pessoas terem conhecimento.", "Palestras educacionais nas escolas."],
     },
     {
-        enunciado: "Insira o enunciado da Pergunta 3",
-        alternativas: ["Alternativa 1", "Alternativa 2"],
+        enunciado: "Como podemos reduzir o negacionismo envolvendo temas ambientais atuais?",
+        alternativas: ["Buscando apresentar fatos convincentes e verdadeiros", "Acreditando em qualquer coisa, indo assim pelo senso comum."],
     },
 ];
 
